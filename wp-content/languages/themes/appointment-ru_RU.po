@@ -1,0 +1,590 @@
+# Translation of Themes - Appointment in Russian
+# This file is distributed under the same license as the Themes - Appointment package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-01 16:18:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Appointment\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Appointment"
+msgstr "Appointment"
+
+#: functions/breadcrumbs/breadcrumbs.php:29
+msgid "Archive by category"
+msgstr "Архив рубрики"
+
+#: functions/breadcrumbs/breadcrumbs.php:93
+msgid "Posts tagged"
+msgstr "Записи с метками"
+
+#: functions/breadcrumbs/breadcrumbs.php:98
+msgid "Articles posted by"
+msgstr "Статьи автора"
+
+#: functions/widgets/appointment_info_widget.php:86
+msgid "Link to get FontAwesome icon"
+msgstr "Ссылка на иконку FontAwesome"
+
+#: admin/tab-pages/useful_plugins.php:61
+msgid "This section is often used to display Latest News, Announcements and Events type content."
+msgstr "Эта секция часто используется для отображения Последних Новостей, Уведомлений и Событий."
+
+#: admin/tab-pages/useful_plugins.php:46
+msgid "You can display any number of Services on the Homepage, with thousands of FontAwesome icons available. You can also display a set of services on a separate page by using the service-related page templates."
+msgstr "Вы можете отображать любое количество услуг на главной странице, с сотнями доступными иконками FontAwesome. Вы также можете показывать услуги на отдельной странице, используя соответствующий шаблон страниц."
+
+#: admin/tab-pages/useful_plugins.php:30
+msgid "There are beautifully styled navigation/menus in the Appointment theme. You can make multi level menus, which means you can create sub menus."
+msgstr "В теме Appointment есть прекрасно стилизованная навигация. Вы можете создавать многоуровневое меню, что означает, что вы можете использовать подменю."
+
+#: admin/tab-pages/useful_plugins.php:10
+msgid "Why Upgrade to Pro?"
+msgstr "Зачем обновляться до ПРО?"
+
+#: admin/tab-pages/free_vs_pro.php:68
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr "С помощью WPML вы можете создать мультиязычный сайт."
+
+#: category.php:9
+msgid "Category Archive"
+msgstr "Архив категорий"
+
+#: functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR : виджет информации"
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Скрыть соц.иконки в подвале"
+
+#: tag.php:11
+msgid "Tag Archive"
+msgstr "Архив метки"
+
+#: functions/customizer/customizer_theme_style.php:24
+msgid "Enable custom color skin"
+msgstr "Включить пользовательскую цветовую гамму"
+
+#: functions/widgets/sidebars.php:9 functions/widgets/sidebars.php:11
+msgid "Sidebar widget area"
+msgstr "Область виджетов в боковой колонке"
+
+#: comments.php:90
+msgid "Logout"
+msgstr "Выход"
+
+#: functions/customizer/customizer_typography.php:1182
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: functions/customizer/customizer-copyright.php:112
+#: functions/customizer/customizer-copyright.php:147
+#: functions/customizer/customizer-copyright.php:181
+#: functions/customizer/customizer-copyright.php:215
+#: functions/customizer/customizer-header.php:75
+#: functions/customizer/customizer-header.php:112
+#: functions/customizer/customizer-header.php:147
+msgid "Open link in new tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: admin/tab-pages/free_vs_pro.php:123
+msgid "Webriti Support Forum"
+msgstr "Форум поддержки Webriti"
+
+#: admin/tab-pages/free_vs_pro.php:97
+msgid "WordPress Support Forum"
+msgstr "Форум поддержки WordPress"
+
+#: admin/tab-pages/free_vs_pro.php:110
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "О нас, Услуги, Портфолио, Блог с боковыми колонками слева и справа, Блог и просто страница на всю ширину страницы, Страница контакта и многое другое."
+
+#: admin/tab-pages/free_vs_pro.php:85
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "Шаблон главной страницы и Страницы на всю ширину"
+
+#: admin/tab-pages/free_vs_pro.php:84
+msgid "Slider [Unlimited Slides], Widget Area Below Slider, Services [6 Services], Callout Section, Latest News"
+msgstr "Слайдер [неограниченные слайды], Область виджетов под слайдером, Услуги [6 услуг], Секция контактной информации, Последние новости"
+
+#: admin/tab-pages/useful_plugins.php:83
+msgid "We provide good knowledgebase articles which will help you to create effective websites. You can visit these articles via our <a href='https://webriti.com/help/category/themes/appointment/' target='_blank'>Help Section</a>."
+msgstr "Мы предоставляем хорошие статьи из нашей базы знаний, которые помогут вам создать эффективные сайты. Вы можете найти эти статьи в <a href='https://webriti.com/help/category/themes/appointment/' target='_blank'>разделе помощи</a>."
+
+#: 404.php:9 functions/breadcrumbs/breadcrumbs.php:101 index-banner.php:11
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: comments.php:89
+msgid "Leave your message"
+msgstr "Оставьте свое сообщение"
+
+#: comments.php:77
+msgid "Name"
+msgstr "Имя"
+
+#: author.php:12
+msgid "Author Archive"
+msgstr "Архив автора"
+
+#: comments.php:25
+msgid "Posted on"
+msgstr "Дата:"
+
+#: comments.php:70
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны быть <a href=\"%s\">авторизованы</a>, чтобы оставить комментарий."
+
+#: admin/tab-pages/emailcourse.php:31
+msgid "JOIN COURSE"
+msgstr "Записаться на курс"
+
+#: admin/inc/class-webriti-about-page.php:325
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr "СОЗДАВАЙТЕ НАДЕЖНЫЕ САЙТЫ"
+
+#: admin/tab-pages/emailcourse.php:24
+msgid "In this email course I deliver 4 highly actionable tips on how you can build a website which is trustworthy and which, in turn, brings more business to you."
+msgstr "В этом email-курсе я вам отправлю 4 совета о том, как вы можете создать сайт с очень хорошей репутацией, который будет приносить вам еще больше прибыли."
+
+#: admin/tab-pages/emailcourse.php:21
+msgid "Think of your website as a hardworking salesman who works 24/7 and never asks for a raise!"
+msgstr "Думайте о своем сайте как об очень занятом и тяжело работающем продажнике, который работает 24/7 и никогда не просит о повышении зарплаты!"
+
+#: admin/tab-pages/emailcourse.php:18
+msgid "To bring you more business."
+msgstr "Чтобы приносить вам больше прибыли"
+
+#: admin/tab-pages/emailcourse.php:17
+msgid "A website exists for one and ONLY one reason:"
+msgstr "Сайт существует только по одной действительно важной причине:"
+
+#: admin/inc/class-webriti-about-page.php:287
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: admin/tab-pages/useful_plugins.php:97
+msgid "Translation Ready"
+msgstr "Готова к переводу"
+
+#: admin/tab-pages/useful_plugins.php:82
+msgid "Well Documented"
+msgstr "Хорошая документация"
+
+#: admin/tab-pages/useful_plugins.php:67
+msgid "Testimonial Feature"
+msgstr "Возможности отзывов"
+
+#: admin/tab-pages/useful_plugins.php:60
+msgid "Latest News Section"
+msgstr "Секция последние новости"
+
+#: admin/tab-pages/useful_plugins.php:52
+msgid "Portfolio Features"
+msgstr "Возможности портфолио"
+
+#: admin/tab-pages/useful_plugins.php:44
+msgid "Service Features"
+msgstr "Возможности услуг"
+
+#: admin/tab-pages/useful_plugins.php:36
+msgid "Caption Slider"
+msgstr "Слайдер"
+
+#: admin/tab-pages/useful_plugins.php:29
+msgid "Multi Level Navigation"
+msgstr "Многоуровневое меню"
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid "Top Header Section"
+msgstr "Верхняя секция шапки"
+
+#: admin/tab-pages/getting-started.php:74
+msgid "Your feedback is valuable to us"
+msgstr "Ваше мнение очень ценно для нас"
+
+#: admin/tab-pages/getting-started.php:78
+msgid "Premium Theme Details"
+msgstr "Детали ПРО версии темы"
+
+#: admin/tab-pages/getting-started.php:64
+msgid "Lite Demo"
+msgstr "Lite демо"
+
+#: admin/tab-pages/getting-started.php:58
+msgid "Useful Links"
+msgstr "Полезные ссылки"
+
+#: admin/tab-pages/free_vs_pro.php:131
+msgid "Get Appointment PRO Now!"
+msgstr "Получить Appointment PRO прямо сейчас!"
+
+#: admin/tab-pages/free_vs_pro.php:71
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: admin/tab-pages/free_vs_pro.php:67
+msgid "WPML / Polylang Support"
+msgstr "Поддержка WPML / Polylang"
+
+#: admin/tab-pages/free_vs_pro.php:63
+msgid "Testimonial / Review Section"
+msgstr "Секция отзывов"
+
+#: admin/tab-pages/free_vs_pro.php:55
+msgid "About Us Page"
+msgstr "Страница О нас"
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: admin/tab-pages/free_vs_pro.php:35 admin/tab-pages/useful_plugins.php:14
+msgid "SEO Friendly URL"
+msgstr "Ссылки дружелюбные для поисковых систем"
+
+#: admin/tab-pages/free_vs_pro.php:32
+msgid "Contact Form Support"
+msgstr "Поддержка контактной формы"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Mobile Friendly"
+msgstr "Mobile Friendly"
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Page Templates Support"
+msgstr "Поддержка шаблонов страниц"
+
+#: admin/tab-pages/free_vs_pro.php:20
+msgid "Frontpage Sections"
+msgstr "Секции главной страницы"
+
+#: admin/tab-pages/free_vs_pro.php:12
+msgid "Features"
+msgstr "Особенности"
+
+#: admin/inc/class-webriti-about-page.php:106
+msgid "Get started with Appointment Lite"
+msgstr "Начните использовать бесплатную версию Appointment"
+
+#: admin/tab-pages/useful_plugins.php:98
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "Тема поддерживает еще один известный плагин: WPML. С помощью этой поддержки вы можете создать веб-сайт на нескольких языках."
+
+#: admin/tab-pages/useful_plugins.php:91
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Создавать веб-сайты с нашими пользовательскими виджетами очень просто. Просто поместите их внутри имеющихся боковых колонок или даже в содержимом страниц."
+
+#: admin/tab-pages/useful_plugins.php:76
+msgid "You will get 13 preset color schemes and you can even create your own favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr "Вы получите 13 предустановленных цветовых гамм, и вы также сможете создать свою собственную любимую, используя настройки цвета в кастомизаторе."
+
+#: admin/tab-pages/useful_plugins.php:68
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Отзывы - очень мощный способ получить доверие. Вы можете отображать отзывы с эффектом карусели."
+
+#: admin/tab-pages/useful_plugins.php:37
+msgid "You can create unlimited slides which you can control via the settings in Appearance >> Customize. The slider supports various post formats like Standard, Aside, Quote, Chat and Video."
+msgstr "Вы можете создавать неограниченное количество слайдов, которыми вы можете управлять используя настройки в кастомизаторе. Слайдер поддерживает записи разных типов: стандартный, текст, цитата, чат и видео."
+
+#: admin/tab-pages/useful_plugins.php:53
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Покажите любое количество проектов. Тема дает вам возможность использовать макеты с 2, 3, 4 колонками. Если у вас есть несколько проектов для демонстрации - тогда смело используйте этот шаблон. Вы также можете создавать категоризированное портфолио, которое отображает все категории в портфолио на одной странице. Мы создали эту тему с таким расчетом, чтобы вы могли создать любое количество портфолио."
+
+#: admin/tab-pages/useful_plugins.php:22
+msgid "In the premium version you will get a top header sidebar area where you can use any widget - all the widgets are styled. We have created a number of widgets in the theme which you can use here. Specifically, use the Appointment Info Widget for showing your email ID, contact number or any other info of your choice."
+msgstr "В премиум версии темы вы получите новую область для виджетов в шапке для добавления своих виджетов (все они будут соответствующим образом стилизованы). Вы создали несколько специальных виджетов в теме, которые вы можете там использовать. Например, используйте Информационный виджет для отображения email, контактного номера или любой другой информации на ваш выбор."
+
+#: admin/tab-pages/useful_plugins.php:15
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "Эта секция поможет вам переименовать слаги в ссылках, чтобы сделать их более дружелюбными для поисковых систем."
+
+#: admin/tab-pages/free_vs_pro.php:72
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Получите моментальную 24/7 поддержку на нашем форуме."
+
+#: admin/tab-pages/free_vs_pro.php:64
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "Покажите отзывы пользователей на главной странице или на странице услуг."
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "Show all your services in a single place."
+msgstr "Покажите все ваши услуги на одной странице."
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "Services Page"
+msgstr "Страница услуг"
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "Show team members, your clients and custom content added in the WordPress editor."
+msgstr "Покажите ваше команду, ваших клиентов и свой контент, добавленный в редакторе WordPress."
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Отобразите ваши проекты из портфолио в 2, 3 или 4 колонки. Вы также можете показывать их по категориям."
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Для отображения расположения вашего магазина или бизнеса на карте используйте Google Maps."
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Enjoy using the 13 preset color schemes. You can also create custom skins without adding any code."
+msgstr "13 предустановленных цветовых гамм. Вы также можете создать свою собственную без программирования."
+
+#: admin/tab-pages/free_vs_pro.php:39 admin/tab-pages/useful_plugins.php:75
+msgid "Multiple Color Schemes"
+msgstr "Несколько цветовых гамм"
+
+#: admin/tab-pages/free_vs_pro.php:36
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "Эта функция позволяет переименовывать слаги пользовательских типов записей в ссылках."
+
+#: admin/tab-pages/free_vs_pro.php:29
+msgid "Responsive layout in all devices"
+msgstr "Адаптивные макеты на всех устройствах."
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "Various Page Templates included in the Appointment Premium Theme"
+msgstr "В премиум версии темы Appointment включено несколько шаблонов страниц."
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "You will find a number of sections on the front page."
+msgstr "Вы увидите несколько секций на главной странице."
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "Google Maps"
+msgstr "Карты Google"
+
+#: functions/widgets/sidebars.php:28 functions/widgets/sidebars.php:30
+msgid "Right widget area below slider"
+msgstr "Правая область виджетов под слайдером"
+
+#: functions/widgets/sidebars.php:37 functions/widgets/sidebars.php:39
+msgid "Center widget area below slider"
+msgstr "Центральная область виджетов под слайдером"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Главная страница"
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr "Вся ширина"
+
+#: single.php:19
+msgid "About the author"
+msgstr "Об авторе"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Поиск"
+
+#: search.php:17
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Жаль, но ничего не соответствуют критериям вашего поиска. Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+#: search.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: functions.php:174
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions/widgets/sidebars.php:18 functions/widgets/sidebars.php:20
+msgid "Footer widget area"
+msgstr "Область виджетов в подвале"
+
+#: functions/customizer/customizer-news.php:86
+#: functions/widgets/appointment_info_widget.php:88
+msgid "Description"
+msgstr "Описание"
+
+#: functions/widgets/appointment_info_widget.php:84
+msgid "FontAwesome icon"
+msgstr "Иконка FontAwesome"
+
+#: functions/customizer/customizer-news.php:71
+#: functions/customizer/customizer_typography.php:477
+#: functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "Заголовок"
+
+#: functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr "Информационный виджет темы Appointment"
+
+#: child_theme_compatible.php:26 functions/breadcrumbs/breadcrumbs.php:6
+#: functions/menu/default_menu_walker.php:20 index-banner.php:19
+msgid "Home"
+msgstr "Главная"
+
+#: appointment_theme_setup_data.php:29
+msgid "slide"
+msgstr "слайд"
+
+#: appointment_theme_setup_data.php:28
+msgid "Uncategorized"
+msgstr "Без категорий"
+
+#: admin/tab-pages/free_vs_pro.php:83
+msgid "2"
+msgstr "2"
+
+#: functions/customizer/customizer-pro-feature.php:65
+msgid "UPGRADE TO PRO"
+msgstr "Обновиться до PRO"
+
+#: functions/customizer/customizer-copyright.php:198
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Спрятать текст копирайта"
+
+#: functions/customizer/customizer-copyright.php:95
+#: functions/customizer/customizer-header.php:58
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-copyright.php:130
+#: functions/customizer/customizer-header.php:94
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer/customizer-copyright.php:164
+#: functions/customizer/customizer-header.php:129
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+#: functions.php:225 functions/breadcrumbs/breadcrumbs.php:106
+#: functions/breadcrumbs/breadcrumbs.php:112
+msgid "Page"
+msgstr "Страница"
+
+#: functions/template-tag.php:23 index-news.php:61
+msgid "By"
+msgstr "Автор:"
+
+#: content.php:17 functions.php:250 functions.php:266
+msgid "Read More"
+msgstr "Прочитать больше"
+
+#: comments.php:95
+msgid "Leave a Reply"
+msgstr "Оставить ответ"
+
+#: comments.php:92
+msgid "Send Message"
+msgstr "Отправить сообщение"
+
+#: comments.php:90
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#: comments.php:90
+msgid "Logout from this Account"
+msgstr "Выйти из этой учетной записи"
+
+#: comments.php:78
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Старые комментарии"
+
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:48
+msgid "No Comments so far"
+msgstr "Комментариев пока нет"
+
+#: comments.php:48
+msgid "1 Comment so far"
+msgstr "Пока лишь 1 комментарий"
+
+#: comments.php:48
+msgid "Comments so far"
+msgstr "Комментариев на данный момент"
+
+#: comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: comments.php:30
+msgid "Edit"
+msgstr "Редактировать"
+
+#: comments.php:13
+msgid "Reply"
+msgstr "Ответить"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Это запись защищена паролем. Введите пароль для просмотра комментариев."
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Архив за день"
+
+#: archive.php:13
+msgid "Monthly Archive"
+msgstr "Архив за месяц"
+
+#: archive.php:17
+msgid "Yearly Archive"
+msgstr "Архив за год"
+
+#: archive.php:21
+msgid "Blog Archive"
+msgstr "Архив блога"
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr "Упс! Страница не найдена"
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Мы сожалеем, но страница, которую вы ищете, не существует."
+
+#: 404.php:12
+msgid "Go Back"
+msgstr "Вернуться назад"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Webriti"
+msgstr "Appointment_PRO"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://webriti.com/appointment-wordpress-theme-1/"
+msgstr "https://webriti.com/appointment-wordpress-theme-1/"
